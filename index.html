@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Professional Blogging Platform</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+
+    <header>
+      <h1>Personal Blog</h1>
+      <p>Write, publish, and manage your thoughts</p>
+    </header>
+
+    <section class="editor">
+      <input type="text" id="title" placeholder="Blog Title">
+      <input type="text" id="author" placeholder="Author Name">
+      <textarea id="content" rows="5" placeholder="Write your blog content..."></textarea>
+      <button onclick="addBlog()">Publish Article</button>
+    </section>
+
+    <section id="blogs"></section>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
