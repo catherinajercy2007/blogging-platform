@@ -32,13 +32,12 @@ It demonstrates how frontend technologies can be used to build structured and vi
 
 ## 🔗 Live Demo
 
-(Add your live link here)
-
+https://catherinajercy2007.github.io/blogging-platform/
 ---
 
 ## 📂 Repository
 
-(Add your GitHub repository link here)
+https://github.com/catherinajercy2007/blogging-platform
 
 ---
 
